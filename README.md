@@ -20,15 +20,3 @@ This is a static HTML and CSS page based on the event's lessons, with personal c
 ## Run locally
 
 Clone or download this repository and open `index.html` in a browser. No build step is required.
-
-## Previews
-
-These screenshots show the original learning project.
-
-### Desktop animated preview
-
-![Desktop animated preview](https://user-images.githubusercontent.com/110689312/192541060-7cd8f48a-7a9e-4d80-8c0e-6d7824e2107b.gif)
-
-### Mobile animated preview
-
-![Mobile animated preview](https://user-images.githubusercontent.com/110689312/192541102-69e80cb9-6e27-419c-92a8-2746937feafa.gif)
