@@ -1,6 +1,6 @@
 # NLW eSports
 
-> **Learning project — course/tutorial exercise.** Kept public as part of my front-end learning history; not professional client work.
+This project is from my earlier HTML and CSS studies with Rocketseat. It's a course exercise, kept here as part of my learning history.
 
 A learning project built during Rocketseat's NLW eSports event to create a personal page featuring games, series, and favorite streamers.
 
